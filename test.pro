@@ -5,4 +5,5 @@ SUBDIRS += \
     iav \
     bvs \
     kaa \
-    aas
+    aas \
+    tko
