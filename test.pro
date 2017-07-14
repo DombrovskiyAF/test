@@ -4,4 +4,5 @@ SUBDIRS += \
     laa \
     iav \
     bvs \
-    kaa
+    kaa \
+    aas
